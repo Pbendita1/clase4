@@ -1,0 +1,23 @@
+*
+{
+    font-family:Georgia;
+}
+body
+{background-color: aqua;
+}
+
+h1{
+padding: 15px;
+border: 10px;
+color: darkorchid;
+text-align: center;
+text-decoration: overline;
+text-transform: uppercase;
+}
+p {color: royalblue; text-align: justify; border-radius:solid ; padding:10px ;
+    border-color: yellow;
+}
+img
+{
+    width: 37%;
+}
